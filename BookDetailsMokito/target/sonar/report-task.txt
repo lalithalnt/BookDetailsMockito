@@ -1,0 +1,5 @@
+projectKey=com.bookmokito:BookDetailsMokito
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.bookmokito:BookDetailsMokito
+ceTaskId=AVjkcUfFOHZkYIzgUGVu
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVjkcUfFOHZkYIzgUGVu
